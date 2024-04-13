@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-06T17:10:07 IST" name="Default suite" finished-at="2024-04-06T17:11:14 IST" duration-ms="66902">
+    <groups>
+    </groups>
+    <test started-at="2024-04-06T17:10:07 IST" name="Default test" finished-at="2024-04-06T17:11:14 IST" duration-ms="66902">
+      <class name="com.ictld.tests.TestldMain">
+        <test-method is-config="true" signature="testconfig()[pri:0, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:10:07 IST" name="testconfig" finished-at="2024-04-06T17:10:10 IST" duration-ms="3163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testconfig -->
+        <test-method signature="TC_LP_01()[pri:1, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:10:10 IST" name="TC_LP_01" finished-at="2024-04-06T17:10:10 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_LP_01 -->
+        <test-method signature="TC_TH_01()[pri:2, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:10:10 IST" name="TC_TH_01" finished-at="2024-04-06T17:10:14 IST" duration-ms="4046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_TH_01 -->
+        <test-method signature="TC_TH_02()[pri:3, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:10:14 IST" name="TC_TH_02" finished-at="2024-04-06T17:10:18 IST" duration-ms="3659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_TH_02 -->
+        <test-method signature="TC_TH_03()[pri:4, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:10:18 IST" name="TC_TH_03" finished-at="2024-04-06T17:10:22 IST" duration-ms="3788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_TH_03 -->
+        <test-method signature="TC_LD_01()[pri:5, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:10:22 IST" name="TC_LD_01" finished-at="2024-04-06T17:10:22 IST" duration-ms="484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_LD_01 -->
+        <test-method signature="TC_LD_02()[pri:6, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:10:22 IST" name="TC_LD_02" finished-at="2024-04-06T17:10:27 IST" duration-ms="5165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_LD_02 -->
+        <test-method signature="TC_LD_03()[pri:7, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:10:27 IST" name="TC_LD_03" finished-at="2024-04-06T17:10:35 IST" duration-ms="7816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_LD_03 -->
+        <test-method signature="TC_LD_04()[pri:8, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:10:35 IST" name="TC_LD_04" finished-at="2024-04-06T17:10:35 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_LD_04 -->
+        <test-method signature="TC_PO_01()[pri:9, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:10:35 IST" name="TC_PO_01" finished-at="2024-04-06T17:10:39 IST" duration-ms="3731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_PO_01 -->
+        <test-method signature="TC_PO_02()[pri:10, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:10:39 IST" name="TC_PO_02" finished-at="2024-04-06T17:10:44 IST" duration-ms="4804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_PO_02 -->
+        <test-method signature="TC_PO_03()[pri:11, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:10:44 IST" name="TC_PO_03" finished-at="2024-04-06T17:10:49 IST" duration-ms="4815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_PO_03 -->
+        <test-method signature="TC_LDP_01()[pri:12, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:10:49 IST" name="TC_LDP_01" finished-at="2024-04-06T17:10:52 IST" duration-ms="3153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_LDP_01 -->
+        <test-method signature="TC_LDP_02()[pri:13, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:10:52 IST" name="TC_LDP_02" finished-at="2024-04-06T17:11:00 IST" duration-ms="7762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_LDP_02 -->
+        <test-method signature="TC_LDP_03()[pri:14, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:11:00 IST" name="TC_LDP_03" finished-at="2024-04-06T17:11:05 IST" duration-ms="5481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_LDP_03 -->
+        <test-method signature="TC_LDP_04()[pri:15, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:11:05 IST" name="TC_LDP_04" finished-at="2024-04-06T17:11:11 IST" duration-ms="6006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_LDP_04 -->
+        <test-method signature="TC_LDP_05()[pri:16, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:11:11 IST" name="TC_LDP_05" finished-at="2024-04-06T17:11:11 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_LDP_05 -->
+        <test-method signature="TC_AA_01()[pri:17, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:11:11 IST" name="TC_AA_01" finished-at="2024-04-06T17:11:14 IST" duration-ms="2541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_AA_01 -->
+        <test-method is-config="true" signature="aftconfig()[pri:0, instance:com.ictld.tests.TestldMain@5824a83d]" started-at="2024-04-06T17:11:14 IST" name="aftconfig" finished-at="2024-04-06T17:11:14 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftconfig -->
+      </class> <!-- com.ictld.tests.TestldMain -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
